@@ -1,4 +1,4 @@
-# Stopwatch-Web-Application
+# SCT_WD_2
 “Task 2 of my SkillCraft Internship – Stopwatch Web Application HTML, CSS, and JavaScript.”  “Stopwatch Web Application as part of SkillCraft internship task (HTML, CSS, JS).”  “Internship Project (SkillCraft Technology) – Task 2:Stopwatch Web Application”
 
 ##  Features
